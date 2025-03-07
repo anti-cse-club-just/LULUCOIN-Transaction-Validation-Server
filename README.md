@@ -1,2 +1,2 @@
-# LULACOIN-Transaction-Validation-Server
-Validation server for the LULACOIN transaction
+# LULUCOIN-Transaction-Validation-Server
+Validation server for the LULUCOIN transaction
